@@ -1,2 +1,2 @@
 # study
-study resp
+git operation study demo.
